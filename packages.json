@@ -1,0 +1,12 @@
+[
+    {
+        "package": "EAPADados",
+        "url": "https://github.com/astuciasnor/EAPADados"
+    }
+    // Se você tiver outros pacotes para adicionar no futuro, coloque-os aqui
+    // ,
+    // {
+    //   "package": "OutroPacote",
+    //   "url": "https://github.com/astuciasnor/OutroPacote"
+    // }
+]
